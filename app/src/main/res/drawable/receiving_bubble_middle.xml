@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:top="@dimen/chat_drop_shadow_size">
+        <shape android:shape="rectangle">
+            <corners
+                android:bottomLeftRadius="@dimen/chat_edge_corner_radius"
+                android:bottomRightRadius="@dimen/chat_round_corner_radius"
+                android:topLeftRadius="@dimen/chat_edge_corner_radius"
+                android:topRightRadius="@dimen/chat_round_corner_radius" />
+            <solid android:color="@color/colorChatBubbleReceivingShadow" />
+        </shape>
+    </item>
+    <item
+        android:bottom="@dimen/chat_drop_shadow_size"
+        android:top="@dimen/chat_drop_shadow_size">
+        <shape android:shape="rectangle">
+            <corners
+                android:bottomLeftRadius="@dimen/chat_edge_corner_radius"
+                android:bottomRightRadius="@dimen/chat_round_corner_radius"
+                android:topLeftRadius="@dimen/chat_edge_corner_radius"
+                android:topRightRadius="@dimen/chat_round_corner_radius" />
+            <solid android:color="@color/colorChatBubbleReceiving" />
+        </shape>
+    </item>
+
+</layer-list>

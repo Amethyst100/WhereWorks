@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--<color name="colorPrimary">#FF9800</color>-->
+    <!--<color name="colorPrimaryDark">#F57C00</color>-->
+    <!--<color name="colorAccent">#D50000</color>-->
+
+    <color name="colorPrimary">#000000</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#FD6801</color>
+
+    <color name="black_overlay">#77000000</color>
+
+    <color name="white">#FFFFFFFF</color>
+    <color name="white_87">#DEFFFFFF</color>
+    <color name="white_54">#8AFFFFFF</color>
+    <color name="transparent">@android:color/transparent</color>
+
+    <color name="colorChatBubbleSending">#00897B</color>
+    <color name="colorChatBubbleSendingShadow">#26A69A</color>
+    <color name="colorChatBubbleReceiving">#FFFFFF</color>
+    <color name="colorChatBubbleReceivingShadow">#ECEFF1</color>
+
+    <color name="colorPrimaryChat">#009688</color>
+    <color name="colorPrimaryDarkChat">#00796B</color>
+    <color name="colorAccentChat">#00838F</color>
+    <color name="colorTitle">#333333</color>
+    <color name="colorDesc">#737373</color>
+</resources>

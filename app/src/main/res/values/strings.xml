@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Where Works!</string>
+    <string name="action_requests">Requests</string>
+    <string name="drawer_open">Drawer Open</string>
+    <string name="drawer_close">Drawer Close</string>
+    <string name="timeline">Timeline</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="maps">Maps</string>
+    <string name="management">Management</string>
+    <string-array name="tabs">
+        <item name="timeline">TimeLine</item>
+        <item name="maps">Maps</item>
+        <item name="near_by">Near By</item>
+    </string-array>
+    <string name="test_email">saqib.rahman@syntecx.net</string>
+    <string name="test_password">123456789</string>
+    <string name="title_activity_add_members">Add Members</string>
+    <string name="title_activity_profile">Profile</string>
+    <string name="action_messages">Messages</string>
+    <string name="title_activity_request">Requests</string>
+    <string name="title_activity_chat_list">Messages</string>
+    <string name="title_activity_edit_profile">Edit Profile</string>
+    <string name="action_add_sub_team">Add Sub Team</string>
+    <string name="action_edit">Edit</string>
+
+    <string-array name="timezones">
+        <item>(GMT+05:00) Karachi (Asia/Karachi)</item>
+    </string-array>
+</resources>
